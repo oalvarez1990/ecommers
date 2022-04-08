@@ -1,7 +1,7 @@
 import { SearchBox, Filters } from 'components/Home';
 import { ProductCard } from 'components';
 import { useDispatch, useSelector } from 'react-redux';
-import 'styles/home.css';
+// import 'styles/home.css';
 import { useEffect } from 'react';
 import { getCategoriesThunk, getProductsThunk } from 'redux/actions';
 

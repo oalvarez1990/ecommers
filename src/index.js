@@ -6,7 +6,7 @@ import { composeWithDevTools } from 'redux-devtools-extension';
 import { Provider } from 'react-redux';
 import thunk from "redux-thunk";
 
-import './assets/fonts/icomoon/style.css';
+// import './assets/fonts/icomoon/style.css';
 
 // Aquí importamos el reducer creado anteriormente
 import rootReducer from './redux/reducers' 

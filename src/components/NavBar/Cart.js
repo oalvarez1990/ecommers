@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
 import { removeFromCartThunk } from 'redux/actions';
 import { purchaseCartThunk } from 'redux/actions/purchasesActions';
-import 'styles/cart.css';
+// import 'styles/cart.css';
 
 const Cart = ({ handleClose }) => {
 

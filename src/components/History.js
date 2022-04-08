@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import 'styles/history.css';
+// import 'styles/history.css';
 
 const History = ({ currentPage }) => {
     return (

@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { History, ProductCard } from 'components';
 import { useParams } from 'react-router-dom';
-import 'styles/product-detail.css';
+// import 'styles/product-detail.css';
 import { getProductsThunk } from 'redux/actions';
 
 const Product = () => {
