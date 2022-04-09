@@ -7,14 +7,14 @@ import { getCategoriesThunk, getProductsThunk } from 'redux/actions';
 
 const Home = () => {
 
-    let productsList = useSelector(state => state.products.productsList);
+    let productsList = useSelector(state => state.products.productsList);// se inicia con useSelector
     const productsFiltered = useSelector(state => state.products.productsFiltered);
 
     const products = productsFiltered.length ? productsFiltered : productsList;
 
     const dispatch = useDispatch();
 
-    useEffect(() => {
+    useEffect(() => {// Se utiliza useEffect 
         dispatch(getProductsThunk());
         dispatch(getCategoriesThunk());
     }, [ dispatch ]);
