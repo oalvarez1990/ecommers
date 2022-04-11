@@ -1,6 +1,6 @@
-import { SearchBox, Filters } from 'components/Home';
-import { ProductCard } from 'components';
-import { useDispatch, useSelector } from 'react-redux';
+import { SearchBox, Filters } from 'components/Home';//se importa las dependencia para uttiizar en el proyecto
+import { ProductCard } from 'components';// se importa component
+import { useDispatch, useSelector } from 'react-redux';//UseSelector para toda la arquitectura de eccomerce
 // import 'styles/home.css';
 import { useEffect } from 'react';
 import { getCategoriesThunk, getProductsThunk } from 'redux/actions';
