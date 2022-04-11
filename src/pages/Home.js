@@ -22,6 +22,7 @@ const Home = () => {
 
 
     return (
+        // Pinta en el form de usuario 
         <div className='home'>
             <aside>
                 <div className='fixed'>
