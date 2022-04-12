@@ -1,5 +1,5 @@
-import { History } from 'components';
-import { PurchaseItem } from 'components/Purchases';
+import { History } from 'components';//Importar history 
+import { PurchaseItem } from 'components/Purchases';//Import PurchaseItem
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
