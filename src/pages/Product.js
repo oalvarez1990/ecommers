@@ -64,3 +64,11 @@ const Product = () => {
 };
 
 export default Product;
+
+// Se crea componente 
+// Se crea componente 
+// Se crea componente 
+// Se crea componente 
+// Se crea componente 
+// Se crea componente 
+// Se crea componente 
