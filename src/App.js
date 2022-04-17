@@ -2,6 +2,7 @@
 import './App.css';
 import { HashRouter, Route, Routes } from 'react-router-dom';
 import { Home, Product, Purchases } from './pages';
+
 import { Footer, NavBar, LoadingScreen } from './components';
 import { useSelector } from 'react-redux';
 import ProtectedRoutes from 'components/ProtectedRoutes';
