@@ -10,3 +10,5 @@ const LoadingScreen = () => {
 };
 
 export default LoadingScreen;
+
+// Se crea un nuevo metodo de inicio
