@@ -42,3 +42,4 @@ const PurchaseItem = ({ purchase }) => {
 };
 
 export default PurchaseItem;
+// Se crea un runtime 
