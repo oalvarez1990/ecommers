@@ -33,10 +33,10 @@ export default ProtectedRoutes;
 //             </div>
 //             <div>
 //                 <i className="fa-solid fa-helmet-safety"></i>
-//                 <h4>UV Protection</h4>
+//                 <h4>UV Protection</h4>ersds
 //                 <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
 //                 <Link to="/" className="btn-shop">SHOP NOW</Link>
 //             </div>
-//         </section>
+//         </section>ersssdd
 //     );
 // };
