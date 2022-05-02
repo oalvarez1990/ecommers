@@ -11,7 +11,7 @@ const ProtectedRoutes = () => {
 
 export default ProtectedRoutes;
 
-
+//Cruzar varoles pendiente en xxxx
 
 // import React from 'react';
 // import { Link } from 'react-router-dom';
