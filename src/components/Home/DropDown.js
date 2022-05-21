@@ -136,3 +136,8 @@ export default DropDown;
 //   End With
 // End Function
 //Secrea nueva de ruta de salida pending
+// const owner = document.querySelector('#owner').value;
+// const car = document.querySelector('#car').value;
+// const licensePlate = document.querySelector('#licensePlate').value;
+// const entryDate = document.querySelector('#entryDate').value;
+// const exitDate = document.querySelector('#exitDate').value;
